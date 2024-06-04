@@ -1,0 +1,37 @@
+[{
+  "bankName": "Эвока Банк",
+  "bankLogo": "C:\\Users\\Tigran\\AndroidStudioProjects\\test_t\\assets\\evk_bank_logo.png",
+  "title": "Запросы",
+  "search": "",
+  "type": "Тип",
+  "purpose": "Цель",
+  "date": "18.05.2023",
+  "effect": "Эффект",
+  "impacting": "Влияет",
+  "notImpacting": "Не влияет"
+},
+  {
+    "bankName": "ИД Банк",
+    "bankLogo": "C:\\Users\\Tigran\\AndroidStudioProjects\\test_t\\assets\\id_bank.png",
+    "title": "Запросы",
+    "search": "Поиск",
+    "type": "Тип",
+    "purpose": "Цель",
+    "date": "18.05.2023",
+    "effect": "Эффект",
+    "impacting": "Влияет",
+    "notImpacting": "Не влияет"
+  },
+  {
+    "bankName": "Банковская организация",
+    "bankLogo": "C:\\Users\\Tigran\\AndroidStudioProjects\\test_t\\assets\\default_logo.png",
+    "title": "Запросы",
+    "search": "Поиск",
+    "type": "Тип",
+    "purpose": "Цель",
+    "date": "18.05.2023",
+    "effect": "Эффект",
+    "impacting": "Влияет",
+    "notImpacting": "Не влияет"
+  }
+]

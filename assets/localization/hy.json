@@ -1,0 +1,38 @@
+[{
+  "bankName": "Էվոկա բանկ",
+  "bankLogo":  "assets/evk_bank_logo.png",
+  "title": "Հարցումներ",
+  "search": "Որոնել",
+  "type": "ՖԱՅԿՈ Սքոր զեկույց",
+  "purpose": "Նոր վարկի դիմում",
+  "date": "18.05.2023",
+  "effect": "Ազդում է",
+  "impacting": "Ազդում է",
+  "notImpacting": "Չի ազդում"
+},
+  {
+    "bankName": "Այ Դի բանկ",
+    "bankLogo": "assets/id_bank.png",
+    "title": "Հարցումներ",
+    "search": "Որոնել",
+    "type": "ՖԱՅԿՈ Սքոր զեկույց",
+    "purpose": "Նոր վարկի դիմում",
+    "date": "18.05.2023",
+    "effect": "Չի ազդում",
+    "impacting": "Ազդում է",
+    "notImpacting": "Չի ազդում"
+  },
+
+  {
+    "bankName": "Վարկային կազմակերպություն",
+    "bankLogo": "assets/default_logo.png",
+    "title": "Հարցումներ",
+    "search": "Որոնել",
+    "type": "ՖԱՅԿՈ Սքոր զեկույց",
+    "purpose": "Նոր վարկի դիմում",
+    "date": "18.05.2023",
+    "effect": "Չի ազդում",
+    "impacting": "Ազդում է",
+    "notImpacting": "Չի ազդում"
+  }
+]

@@ -1,0 +1,37 @@
+[{
+  "bankName": "Evocabank",
+  "bankLogo":  "assets/evk_bank_logo.png",
+  "title": "Requests",
+  "search": "Search",
+  "type": "FAICO Score report",
+  "purpose": "New loan application",
+  "date": "18.05.2023",
+  "effect": "Is impacting",
+  "impacting": "Is impacting",
+  "notImpacting": "Is not impacting"
+},
+  {
+    "bankName": "IDBank",
+    "bankLogo": "assets/id_bank.png",
+    "title": "Requests",
+    "search": "Search",
+    "type": "FAICO Score report",
+    "purpose": "New loan application",
+    "date": "18.05.2023",
+    "effect": "Is not impacting",
+    "impacting": "Is impacting",
+    "notImpacting": "Is not impacting"
+  },
+  {
+    "bankName": "Banking Organization",
+    "bankLogo": "assets/default_logo.png",
+    "title": "Requests",
+    "search": "Search",
+    "type": "FAICO Score report",
+    "purpose": "New loan application",
+    "date": "18.05.2023",
+    "effect": "Is not impacting",
+    "impacting": "Is impacting",
+    "notImpacting": "Is not impacting"
+  }
+]
