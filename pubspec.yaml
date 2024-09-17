@@ -37,7 +37,8 @@ dependencies:
   json_annotation: any
   json_serializable: any
   build_runner: any
-
+  flutter_svg: ^2.0.10+1
+  dio: any
 
 
 #  ui_lib:
